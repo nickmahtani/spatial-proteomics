@@ -2,8 +2,6 @@
 
 ## 19 March 2026
 
-### Deep Learning: PyTorch MLPs, DataLoaders, and Training Mechanics
-
 Continued through Raschka's PyTorch tutorial — moved from running a forward pass to understanding the full data pipeline.
 
 **What I did:**
@@ -20,8 +18,6 @@ Continued through Raschka's PyTorch tutorial — moved from running a forward pa
 - Parameter count scales fast: `Linear(50, 30)` alone has 1530 params (50×30 weights + 30 biases). Each neuron connects to every input from the previous layer
 
 ## 13 March 2026
-
-### Deep Learning: PyTorch Autograd and Logistic Regression from Scratch
 
 Started Sebastian Raschka's PyTorch in One Hour tutorial — building up from tensors to a working logistic regression classifier.
 
