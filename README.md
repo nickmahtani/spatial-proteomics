@@ -8,3 +8,4 @@ Working through Sebastian Raschka's [PyTorch in 1 Hour](https://sebastianraschka
 
 - [Tutorial notebook](pytorch/tutorial.ipynb)
 - [Notes](pytorch/notes.md)
+- [Learning log](pytorch/log.md)
